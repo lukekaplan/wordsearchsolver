@@ -1,0 +1,6 @@
+S (0, 1):         ban
+W (1, 2):         nay
+NE (2, 0):         jag
+N (2, 1):         nab
+4 words found
+found all words in 9.5e-05 seconds
